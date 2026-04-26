@@ -22,7 +22,7 @@ Built a complete Kademlia DHT in Go as the foundation for a decentralised experi
 
 25 years building production systems across supply chain, mining, and transportation — geospatial algorithms, distributed data pipelines, cloud infrastructure. Now applying that systems depth to ML research infrastructure and mechanistic interpretability.
 
-MSc Applied Artificial Intelligence, Luleå University of Technology (expected June 2027)
+MSc Applied Artificial Intelligence, Luleå University of Technology (expected May 2027)
 
 Google Cloud Certified Professional Data Engineer
 
