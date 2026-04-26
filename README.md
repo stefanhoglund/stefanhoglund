@@ -1,6 +1,6 @@
 # Stefan Höglund
 
-Research engineer and systems builder completing an MSc in Computer Science & Engineering at Luleå University of Technology. I work at the intersection of mechanistic interpretability and ML systems infrastructure — specifically, how transformers encode task-relevant structure internally, and how to build the tooling that makes that kind of research tractable at scale.
+Research engineer and systems builder completing an MSc in Applied Artificial Intelligence at Luleå University of Technology. I work at the intersection of mechanistic interpretability and ML systems infrastructure — specifically, how transformers encode task-relevant structure internally, and how to build the tooling that makes that kind of research tractable at scale.
 
 ## Research
 
@@ -22,7 +22,8 @@ Built a complete Kademlia DHT in Go as the foundation for a decentralised experi
 
 25 years building production systems across supply chain, mining, and transportation — geospatial algorithms, distributed data pipelines, cloud infrastructure. Now applying that systems depth to ML research infrastructure and mechanistic interpretability.
 
-MSc Computer Science & Engineering, Luleå University of Technology (expected June 2026)
+MSc Applied Artificial Intelligence, Luleå University of Technology (expected June 2027)
+
 Google Cloud Certified Professional Data Engineer
 
 ## Contact
