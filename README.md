@@ -17,10 +17,10 @@ I am especially interested in alignment work where interpretability, evaluation 
 
 In thesis-related experiments, I studied how transformer attention features relate to task-type classification in NL-to-SQL style prompts. Across experiments involving GPT-2-small and Llama 3 8B, early-layer attention features were surprisingly predictive of task type, motivating further work on early-layer feature encoding, dataset controls, and interpretability methods for structured-data reasoning.
 
-- [Thesis: Mechanistic Interpretability of NL-to-SQL Systems](actual-link-here)  
+- [Thesis: Mechanistic Interpretability of NL-to-SQL Systems](https://github.com/stefanhoglund/llm-sql-mechanistic-interpretability)  
   Semantic catalog design, governed NL-to-SQL evaluation, model behavior analysis, and interpretability experiments.
 
-- [GPT-2 Attention Pattern Study](actual-link-here)  
+- [GPT-2 Attention Pattern Study](https://github.com/stefanhoglund/attention-task-classification)  
   TransformerLens-based attention feature extraction and task-type classification across four prompt categories.
 
 ## Selected Systems Work
@@ -29,10 +29,10 @@ In thesis-related experiments, I studied how transformer attention features rela
 
 Built a Kademlia-style distributed hash table in Go, with routing, replication, fault injection, message dropout, and large-scale Docker simulation. This work reflects my broader interest in reliable infrastructure for distributed research and experiment coordination.
 
-- [Kademlia DHT](actual-link-here)  
+- [Kademlia DHT](https://github.com/stefanhoglund/kademlia-ml-experiment-store)  
   Go implementation of a distributed hash table with 1,000+ node simulation and fault testing.
 
-- [Neuromorphic SNN Training Framework](actual-link-here)  
+- [Neuromorphic SNN Training Framework](https://github.com/stefanhoglund/neuromorphic-rf-classification)  
   Experiment framework for SNN/ANN training on RadioML 2018.01A, including multiple architectures and training rules.
 
 ## Background
