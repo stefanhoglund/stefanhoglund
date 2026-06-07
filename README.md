@@ -1,31 +1,49 @@
 # Stefan Höglund
 
-Research engineer and systems builder completing an MSc in Applied Artificial Intelligence at Luleå University of Technology. I work at the intersection of mechanistic interpretability and ML systems infrastructure — specifically, how transformers encode task-relevant structure internally, and how to build the tooling that makes that kind of research tractable at scale.
+I am a software and data engineer with a deep background in analytics systems, cloud data platforms, distributed systems, and applied machine learning. My current research interests are in AI interpretability, evaluations, and reliable AI-assisted data systems, especially where language models interact with structured data and organizational decision-making.
 
-## Research
+I am especially interested in alignment work where interpretability, evaluation design, and robust software systems meet.
 
-**Layer 0 attention dominance in transformer task-type encoding**
-Across two independent experiments on GPT-2-small and Llama 3 8B, I found that Layer 0 attention features dominate task-type classification at 73.3% accuracy — contrary to the conventional assumption that later layers carry more task-specific information. The consistency across a 68x difference in model scale suggests this may be a structural property of transformer attention independent of scale.
+## Research Interests
 
-- [Thesis: Mechanistic Interpretability of NL-to-SQL Systems](https://github.com/your-handle/thesis-repo) — TransformerLens analysis of Llama 3 8B, governed semantic layer, empirical failure mode taxonomy
-- [GPT-2 Attention Pattern Study](https://github.com/your-handle/transformerlens-classifier) — 864 attention features across 144 heads, four cognitive task types, Layer 0 dominance finding
+- Mechanistic interpretability of language models in structured-data tasks
+- Evaluation design for AI-assisted analytics and NL-to-SQL systems
+- Reliable AI systems for organizational decision-making (augmenting analytics systems)
+- Research infrastructure for reproducible ML experiments
 
-## Systems
+## Selected Research
 
-**Decentralised ML experiment coordination**
-Built a complete Kademlia DHT in Go as the foundation for a decentralised experiment result store — motivated by the limitations of centralised tools (W&B, MLflow) for distributed research teams. Validated across 1,000+ node Docker simulations with fault injection, message dropout, and routing table healing.
+**Mechanistic interpretability of NL-to-SQL systems**
 
-- [Kademlia DHT](https://github.com/your-handle/kademlia-repo) — production-grade distributed hash table in Go, large-scale fault injection simulation
-- [Neuromorphic SNN Training Framework](https://github.com/your-handle/snn-framework) — experiment management for SNN/ANN training on RadioML 2018.01A, multiple architectures and training rules
+In thesis-related experiments, I studied how transformer attention features relate to task-type classification in NL-to-SQL style prompts. Across experiments involving GPT-2-small and Llama 3 8B, early-layer attention features were surprisingly predictive of task type, motivating further work on early-layer feature encoding, dataset controls, and interpretability methods for structured-data reasoning.
+
+- [Thesis: Mechanistic Interpretability of NL-to-SQL Systems](actual-link-here)  
+  Semantic catalog design, governed NL-to-SQL evaluation, model behavior analysis, and interpretability experiments.
+
+- [GPT-2 Attention Pattern Study](actual-link-here)  
+  TransformerLens-based attention feature extraction and task-type classification across four prompt categories.
+
+## Selected Systems Work
+
+**Distributed systems and research infrastructure**
+
+Built a Kademlia-style distributed hash table in Go, with routing, replication, fault injection, message dropout, and large-scale Docker simulation. This work reflects my broader interest in reliable infrastructure for distributed research and experiment coordination.
+
+- [Kademlia DHT](actual-link-here)  
+  Go implementation of a distributed hash table with 1,000+ node simulation and fault testing.
+
+- [Neuromorphic SNN Training Framework](actual-link-here)  
+  Experiment framework for SNN/ANN training on RadioML 2018.01A, including multiple architectures and training rules.
 
 ## Background
 
-25 years building production systems across supply chain, mining, and transportation — geospatial algorithms, distributed data pipelines, cloud infrastructure. Now applying that systems depth to ML research infrastructure and mechanistic interpretability.
+I have 25 years of experience building production software, analytics systems, cloud data platforms, and data infrastructure across supply chain, mining, transportation, and public-sector domains. My recent work has focused on applying that systems background to machine learning, interpretability, and reliable AI-assisted analytics.
 
-MSc Applied Artificial Intelligence, Luleå University of Technology (expected May 2027)
-
+MSc Applied Artificial Intelligence, Luleå University of Technology, expected May 2027  
 Google Cloud Certified Professional Data Engineer
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/stefanhoglund1) · Stefan.Hoglund@gmail.com · Colorado, USA
+[LinkedIn](https://linkedin.com/in/stefanhoglund1) · Stefan.Hoglund@gmail.com
+
+
