@@ -37,7 +37,7 @@ Built a Kademlia-style distributed hash table in Go, with routing, replication, 
 
 ## Background
 
-I have 25 years of experience building production software, analytics systems, cloud data platforms, and data infrastructure across supply chain, mining, transportation, and public-sector domains. My recent work has focused on applying that systems background to machine learning, interpretability, and reliable AI-assisted analytics.
+I have 25 years of experience building production software, analytics systems, cloud data platforms, and data infrastructure across supply chain, mining, transportation, and public-sector domains. My recent efforts has focused on applying that systems background to machine learning, interpretability, and AI-assisted analytics.
 
 MSc Applied Artificial Intelligence, Luleå University of Technology, expected May 2027  
 Google Cloud Certified Professional Data Engineer
