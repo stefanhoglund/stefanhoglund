@@ -45,7 +45,8 @@ Empirical and mechanistic investigations of language-model behavior in structure
 
 The research explores how language models represent task information and respond to structured constraints.
 
-[**MSc Thesis (DiVA)**](https://urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-117810) 
+[**MSc Thesis (DiVA) →**](https://urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-117810)
+
 [**Experiments →**](https://github.com/stefanhoglund/llm-sql-mechanistic-interpretability)
 
 ### Attention-Based Task Classification
